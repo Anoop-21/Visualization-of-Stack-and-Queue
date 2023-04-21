@@ -21,7 +21,7 @@ Run the executable file:
 The program will display two windows, one for the stack and one for the queue. The initial data structures are empty.
 
 To perform operations on the stack, instructions will be  given at the time of execution.
-.
+
 
 
 Note:
