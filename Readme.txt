@@ -33,4 +33,4 @@ Enjoy using the Stack and Queue visualization program!
 
 
 
-Additionally ,Executing The fact.cpp we know use stack applications for calculating factorial of number.
+Additionally ,Executing The fact.cpp we to use stack as a application for calculating factorial of number.
