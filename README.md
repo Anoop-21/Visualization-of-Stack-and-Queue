@@ -1,6 +1,6 @@
 # Visualization-of-Stack-and-Queue
 Graphical Visualization of Stack and Queue using Graphic Library Utility Toolkit(GLUT)
-This program demonstrates the visualization of stack and queue data structures using OpenGL Utility Toolkit (GLUT) library. It allows users to perform basic stack and queue operations such as push, pop, enqueue and dequeue, and displays the updated data structure graphically.
+This program demonstrates the visualization of stack and queue data structures using OpenGL Utility Toolkit (GLUT) library. It allows users to perform basic stack and queue operations such as push, pop, enqueue and dequeue,and displays the updated data structure graphically.
 
 Requirements:
 
